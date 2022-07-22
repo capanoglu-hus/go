@@ -1,0 +1,3 @@
+kodu main sınıfında çalıstırıyoruz ama demo error_handling de 
+o yüzden hata alıyoruz 
+şimdi main sınıfına atıp çalıştıgını görecez
